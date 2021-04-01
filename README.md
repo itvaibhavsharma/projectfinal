@@ -42,9 +42,9 @@ See [Contributing.md](/Contributing.md/)
 
 ## LICENSE
 
-BSD 3-Clause License
+GNU License
 
-Copyright (c) 2019-2020, Charles Combes
+Copyright (c) 2019-2020,
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
