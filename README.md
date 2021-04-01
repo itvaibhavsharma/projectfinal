@@ -1,5 +1,5 @@
 ![FastNFitness Logo](https://lh3.googleusercontent.com/KKJw0HA9fD2g9mZMhzzeretD4Tvkr7-wPVzl7WMTTXiiqO6ikS5SqR5X9E8i2HPrNQ=w300)
-# Welcome to the FastNFitness wiki!
+# Welcome to the CU Fitness wiki!
 
 
 ## Track your progress (strengh, cardio and isometric) quickly and easily
